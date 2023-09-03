@@ -5,3 +5,4 @@ build*
 lib
 install
 .vscode
+_docs/Designs/*.bkp
